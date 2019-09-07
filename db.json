@@ -1,14 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "contacts": [
+    { "id": 1,
+      "name": "Neha",
+      "username": "neha",
+      "email": "neha@omneytree.com",
+      "isFavorite: true
+    },
+    { "id": 2,
+      "name": "Sneha",
+      "username": "sneha",
+      "email": "sneha@omneytree.com",
+      "isFavorite: false
+    },
+    { "id": 3,
+      "name": "Ashwin",
+      "username": "ashwin",
+      "email": "ashwin@omneytree.com",
+      "isFavorite: true
+    },
+    { "id": 4,
+      "name": "Pradeep",
+      "username": "pradeep",
+      "email": "pradeep@omneytree.com",
+      "isFavorite: false
+    },
+    { "id": 5,
+      "name": "Kiran",
+      "username": "kiran",
+      "email": "kiran@omneytree.com",
+      "isFavorite: true
+    },
+    { "id": 6,
+      "name": "Nagendra",
+      "username": "nagendra",
+      "email": "nagendra@omneytree.com",
+      "isFavorite: false
+    },
+    { "id": 7,
+      "name": "Sumit",
+      "username": "sumit",
+      "email": "sumit@omneytree.com",
+      "isFavorite: true
+    },
+    { "id": 8,
+      "name": "Nikita",
+      "username": "nikita",
+      "email": "nikita@omneytree.com",
+      "isFavorite: false
+    },
+    { "id": 9,
+      "name": "Roma",
+      "username": "roma",
+      "email": "roma@omneytree.com",
+      "isFavorite: true
+    },
+    { "id": 10,
+      "name": "Raju",
+      "username": "raju",
+      "email": "raju@omneytree.com",
+      "isFavorite: false
+    }
+  ]
 }
